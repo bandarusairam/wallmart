@@ -1,0 +1,5 @@
+this contains ignore files
+.classpath
+.setting
+node_modules/
+
